@@ -121,10 +121,5 @@ Sub oracleGLAccountAnalysisParser()
 
     ' Sum on [Net] column, if the total is zero (i.e. debits = credits),
     ' you're good to go. Thank you for using my script.
-    '
-    ' My Github: https://github.com/voidbydefault/
-    ' My YouTubes:
-        ' https://youtube.com/@LivingLinux101
-        ' https://youtube.com/@taimurSM
 
 End Sub
