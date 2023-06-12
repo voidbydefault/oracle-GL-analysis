@@ -3,7 +3,7 @@
 ## Introduction
 
 This VBA for Excel script parses Oracle's standard General Ledger Account Analysis Report for a 
-360 view what's hitting your GLs and a deeper dive into financial / data analysis, and audit.
+360 view on what's hitting your GLs and a deeper dive into financial / data analysis, and audit.
 
 ![image](https://github.com/voidbydefault/oracle-GL-analysis/assets/101434467/0398772e-2a5f-46c3-a6b1-97d0b0ac6624)
 
