@@ -104,6 +104,8 @@ Sub oracleGLAccountAnalysisParser()
     Selection.ListObject.ListColumns.Add Position:=13
 
 ' Rename new columns and add formulas
+' Below function assume that client has GL code formatted as
+' [xx.xxx.xxxx.xxxxx], e.g. 00.001.0001.11000
 
     Range("M1").Select
     ActiveCell.FormulaR1C1 = "Project"
